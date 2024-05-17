@@ -17,5 +17,6 @@
 ## **Submit Buttons**
 ## Submit Container: Contains two div elements acting as buttons.
 ## Conditional Styling and Click Handlers:The "Sign Up" button is gray if the current action is "Login" and active otherwise. Clicking it sets the action to "Sign Up".The "Login" button is gray if the current action is "Sign Up" and active otherwise. Clicking it sets the action to "Login".
-
+## Summary
+## This component uses conditional rendering and state management to toggle between a login form and a sign-up form. It adjusts the form fields and button styles based on the current action. This provides a dynamic user interface for user authentication processes.
 
